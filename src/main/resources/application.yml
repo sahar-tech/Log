@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: ERROR
+    com.example.log: INFO
+
+  pattern:
+    console: '%d [%level] %c{1.} [%t] %m%n'
+    file: '%d [%level] %c{1.} [%t] %m%n'
+
+  file:
+    name: appLog_yml.log
