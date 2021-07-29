@@ -1,0 +1,27 @@
+2021-07-29 07:18:50,450 DEBUG sun.rmi.loader [RMI TCP Connection(4)-192.168.1.5] RMI TCP Connection(4)-192.168.1.5: name = "[B", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@2973be39
+2021-07-29 07:18:50,452 DEBUG sun.rmi.loader [RMI TCP Connection(4)-192.168.1.5] RMI TCP Connection(4)-192.168.1.5: class "[B" found via defaultLoader, defined by null
+2021-07-29 07:18:50,452 DEBUG sun.rmi.dgc [RMI TCP Connection(4)-192.168.1.5] RMI TCP Connection(4)-192.168.1.5: id = [4ef51d23:17af12108c2:-7fcd, -3068820716191192874], vmid = 6229b15ef3696e6b:51536f04:17af0c5ad7f:-7fff, strong = false
+2021-07-29 07:18:50,452 DEBUG sun.rmi.transport.misc [RMI TCP Connection(4)-192.168.1.5] RMI TCP Connection(4)-192.168.1.5: getting output stream
+2021-07-29 07:18:50,947 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543130947; nextExpiration=1627543130931; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:51,951 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543131951; nextExpiration=1627543131947; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:52,952 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543132952; nextExpiration=1627543132951; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:53,958 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543133958; nextExpiration=1627543133952; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:54,968 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543134968; nextExpiration=1627543134958; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:55,975 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543135975; nextExpiration=1627543135968; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:56,976 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543136976; nextExpiration=1627543136975; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:57,981 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543137981; nextExpiration=1627543137976; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:18:58,991 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543138991; nextExpiration=1627543138981; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:19:00,002 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543140002; nextExpiration=1627543139991; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:19:01,007 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543141007; nextExpiration=1627543141002; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:19:02,021 DEBUG org.apache.tomcat.util.net.NioEndpoint [http-nio-8080-Poller] timeout completed: keys processed=3; now=1627543142021; nextExpiration=1627543142007; keyCount=0; hasEvents=false; eval=false
+2021-07-29 07:19:06,227 INFO com.example.log.LogApplication [restartedMain] Starting LogApplication using Java 16.0.1 on DESKTOP-DTFL9FU with PID 1448 (C:\Users\HASSAN\tttt\target\classes started by HASSAN in C:\Users\HASSAN\tttt)
+2021-07-29 07:19:06,230 DEBUG com.example.log.LogApplication [restartedMain] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-07-29 07:19:06,230 INFO com.example.log.LogApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-07-29 07:19:06,273 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-29 07:19:06,273 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-29 07:19:06,992 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$f948c9e0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-07-29 07:19:07,023 INFO org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping [restartedMain] Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-07-29 07:19:07,314 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-07-29 07:19:07,321 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-07-29 07:19:07,321 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-29 07:19:07,402 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
