@@ -1,0 +1,6 @@
+2021-07-29 09:05:36,469 [INFO] com.example.log.LogApplication [restartedMain] Starting LogApplication using Java 16.0.1 on DESKTOP-DTFL9FU with PID 1100 (C:\Users\HASSAN\tttt\target\classes started by HASSAN in C:\Users\HASSAN\tttt)
+2021-07-29 09:05:36,471 [INFO] com.example.log.LogApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-07-29 09:05:38,670 [INFO] com.example.log.LogApplication [restartedMain] Started LogApplication in 2.723 seconds (JVM running for 3.564)
+2021-07-29 09:05:41,264 [INFO] com.example.log.ControllerLog [http-nio-8080-exec-1] An INFO Message
+2021-07-29 09:05:41,265 [WARN] com.example.log.ControllerLog [http-nio-8080-exec-1] A WARN Message
+2021-07-29 09:05:41,265 [ERROR] com.example.log.ControllerLog [http-nio-8080-exec-1] An ERROR Message
