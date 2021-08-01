@@ -21,7 +21,7 @@
     <dependencies>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<!-- To switch between logging frameworks you need only to uncomment needed framework dependencies in pom.xml -->
+<!-- To switch between logging frameworks you need only to uncomment needed framework dependencies -->
         <!--  dependencies of LogBack for logging framework-->
 
         <dependency>
