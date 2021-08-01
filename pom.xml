@@ -20,6 +20,8 @@
 
     <dependencies>
 
+<!-------------------------------------------------------------------------------------------------------------->
+<!-- To switch between logging frameworks you need only to uncomment needed framework dependencies in pom.xml -->
         <!--  dependencies of LogBack for logging framework-->
 
         <dependency>
@@ -69,6 +71,7 @@
             <artifactId>jcl-over-slf4j</artifactId>
             <version>1.7.30</version>
         </dependency>
+<!-------------------------------------------------------------------------------------------------------------->
 
         <!--  dependencies of Rest API for spring boot framework -->
 
